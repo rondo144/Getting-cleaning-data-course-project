@@ -1,0 +1,34 @@
+Code book for getting and cleaning data - Cours Project
+  activityId	activity type
+subjectId"	subject ID number
+
+subject mean vars
+"timeBodyAccMagnitudeMean"	
+"	
+"timeGravityAccMagnitudeMean"	
+
+"timeBodyAccJerkMagnitudeMean"
+
+"timeBodyGyroMagnitudeMean"
+	
+"timeBodyGyroJerkMagnitudeMean"	
+
+"freqBodyAccMagnitudeMean"
+
+"freqBodyAccJerkMagnitudeMean"
+
+"freqBodyGyroMagnitudeMean"	
+	
+"freqBodyGyroJerkMagnitudeMean"
+
+
+subject stdde vars
+
+timeBodyAccMagnitudeStdDev"
+"timeGravityAccMagnitudeStdDev"
+"timeBodyAccJerkMagnitudeStdDev"
+"timeBodyAccJerkMagnitudeStdDev"
+"timeBodyGyroJerkMagnitudeStdDev"
+"freqBodyAccMagnitudeStdDev"
+"freqBodyAccJerkMagnitudeStdDev"
+"freqBodyGyroMagnitudeStdDev"
